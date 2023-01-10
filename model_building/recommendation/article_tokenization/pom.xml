@@ -13,7 +13,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <hadoop.version.a>2.3.0-cdh5.0.2</hadoop.version.a>
+    <hadoop.version.a>3.1.1.7.2.15.0-147</hadoop.version.a>
     <hadoop.version.b>2.3.0-mr1-cdh5.0.2</hadoop.version.b>
   </properties>
 
